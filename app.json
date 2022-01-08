@@ -1,0 +1,20 @@
+{
+  "name": "MyReactNative",
+  "displayName": "MyReactNative",
+  "expo": {
+    "name": "MyReactNative",
+    "slug": "MyReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.ewwew",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.ewwew",
+      "versionCode": 1
+    }
+  }
+}
